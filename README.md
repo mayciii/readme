@@ -1,4 +1,6 @@
 # 🌐 GitHub Profile README Template
+[!NOTE]
+This is a template only. Replace all <placeholders> with your own information before publishing. Do not use this file as-is on your profile.
 
 > ✨ A clean, animated GitHub profile README template. Just fork, fill in your info, and you're good to go!
 
@@ -244,20 +246,7 @@ while True:
 
 ---
 
-<!-- ============================================================ -->
-<!-- 📊 GITHUB STATS — Replace YOUR-USERNAME with your username   -->
-<!-- Theme options: dark, radical, merko, gruvbox, tokyonight,    -->
-<!--   onedark, cobalt, synthwave, highcontrast, dracula          -->
-<!-- ============================================================ -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
@@ -286,9 +275,9 @@ while True:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE) 
- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-ID) 
-![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR-HANDLE) 
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-ID) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR-HANDLE) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL) 
 
 </div>
 
