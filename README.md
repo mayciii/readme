@@ -1,6 +1,4 @@
 # 🌐 GitHub Profile README Template
-[!NOTE]
-This is a template only. Replace all <placeholders> with your own information before publishing. Do not use this file as-is on your profile.
 
 > ✨ A clean, animated GitHub profile README template. Just fork, fill in your info, and you're good to go!
 
